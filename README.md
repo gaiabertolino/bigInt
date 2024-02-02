@@ -1,2 +1,1 @@
-Il seguente progetto è stato realizzato come elaborato finale del corso in Programmazione orientata agli oggetti erogato al secondo anno della laurea triennale in ingegneria informatica all'Università della Calabria.
-E' stata realizzata una gerarchia di classi in grado di gestire numeri interi di grandi dimensioni in linguaggio Java
+The project has been developed as the final assignment for the Object-Oriented Programming course, delivered during the second year of the Bachelor's degree program in Computer Engineering at the University of Calabria. A class hierarchy has been implemented to manage large integer numbers in the Java programming language.
